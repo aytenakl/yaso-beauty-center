@@ -14,6 +14,10 @@ Yaso Beauty Center is a responsive business website developed to establish a pro
 
 The website showcases the center's services, highlights its work, and makes it easy for customers to explore services and book appointments directly through WhatsApp.
 
+The project focuses on providing a user-friendly experience, improving customer accessibility, and helping the business build its digital presence without unnecessary website infrastructure costs.
+
+---
+
 ## ✨ Features
 
 - **Home Page:** Welcoming hero section introducing the beauty center.
@@ -28,40 +32,54 @@ The website showcases the center's services, highlights its work, and makes it e
 - **New Services:** Dedicated section for the Moroccan Bath.
 - **Our Work:** Social media integration to showcase the center's work.
 - **Contact Section:** Contact information, business hours, and location.
-- **WhatsApp Booking:** Direct appointment booking.
-- **Google Maps Integration:** Easy access to the center's location.
+- **WhatsApp Booking:** Direct appointment booking through WhatsApp.
+- **Google Maps Integration:** Easy access to the center's location and directions.
 - **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
-- **Arabic RTL Layout:** Designed for an Arabic-speaking audience.
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Google Maps Integration
-- WhatsApp Integration
-- Git & GitHub
-- GitHub Pages
-
-## 🎯 Project Goals
-
-- Build a professional digital presence for a local beauty business.
-- Present services in a clear and attractive way.
-- Improve customer communication and appointment booking.
-- Make business information accessible across different devices.
-
-## 👩‍💻 Development & Credits
-
-**Developed by Ayten Ehab Akl**  
-Co-Founder & Software Developer at **Due Two**
-
-This project was developed as a real-world business website for Yaso Beauty Center.
-
-**Due Two — Innovating Today. Empowering Tomorrow.**
-
-🌐 [Due Two Website](https://aytenakl.github.io/Due_Two/)  
-💼 [GitHub Profile](https://github.com/aytenakl)
+- **Arabic RTL Layout:** Designed specifically for an Arabic-speaking audience.
 
 ---
 
-© 2026 Yaso Beauty Center. All Rights Reserved.
+## 🎯 Client Challenges & Solutions
+
+### Challenges
+
+- **Lack of Online Presence:** The business did not have a dedicated professional website to showcase its services.
+- **Limited Customer Accessibility:** Customers needed an easier way to access business information and discover available services.
+- **Booking & Communication:** Customers needed a direct and convenient way to contact the center and request appointments.
+- **Location Accessibility:** Customers needed an easy way to find the beauty center and access its location.
+- **Additional Website Costs:** Traditional hosting and custom domain services could create recurring expenses for the business.
+
+### Solutions Implemented
+
+- **Professional Online Presence:** Developed a complete business website to showcase the center's services, identity, and information.
+- **Free Hosting & Deployment:** Used GitHub Pages to publish and host the website, eliminating recurring hosting fees.
+- **Free Website Address:** Used a GitHub Pages subdomain instead of purchasing a custom domain, reducing additional business expenses.
+- **Direct WhatsApp Booking:** Integrated multiple WhatsApp booking buttons throughout the website, allowing customers to initiate appointment requests directly without complicated booking forms.
+- **Google Maps Integration:** Embedded Google Maps and added direct navigation links to make visiting the center easier.
+- **Centralized Business Information:** Organized services, contact details, working hours, location, and social media links in one accessible platform.
+- **Responsive Design:** Developed a responsive interface to ensure a smooth browsing experience across different screen sizes.
+- **Social Media Integration:** Connected the website with the center's Facebook, Instagram, and TikTok accounts to improve access to its online content.
+
+---
+
+## 💡 Business Impact
+
+The website provides Yaso Beauty Center with:
+
+- A professional digital identity and online presence.
+- Better visibility for its services and offerings.
+- Easier customer communication and appointment requests.
+- Improved accessibility to business information and location.
+- Direct connections between the website and social media platforms.
+- Reduced website infrastructure expenses through free hosting and a free subdomain.
+
+The result is more than a landing page; it is a practical digital platform designed to support the business and simplify the customer journey.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Website structure and content.
+- **CSS3** – Styling, layout, and responsive design.
+- **JavaScript** – Interactive website functionality.
+- **Google Maps** –
