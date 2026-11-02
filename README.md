@@ -1,7 +1,9 @@
 # Yaso Beauty Center 🌸
 
 **A Modern Business Website for a Beauty Center**
-Official website for Yaso Beauty Center, featuring beauty services, hair care, skincare, nails, eyelashes, bridal preparation, contact information, and social media links.
+
+**Official website for Yaso Beauty Center, featuring beauty services, hair care, skincare, nails, eyelashes, bridal preparation, contact information, and social media links.**
+
 <img width="1878" height="887" alt="yaso" src="https://github.com/user-attachments/assets/37102cac-4ff3-4299-9133-f5b9e3470f8b" />
 
 🌐 **Live Website:** [Visit Yaso Beauty Center](https://aytenakl.github.io/yaso-beauty-center/)
